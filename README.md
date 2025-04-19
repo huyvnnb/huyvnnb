@@ -44,7 +44,7 @@
 
 - Email: [huyqktk@gmail.com](mailto:huyqktk@gmail.com)
 - LinkedIn: [linkedin.com/in/huynguyenkma](https://linkedin.com/in/huynguyenkma)  
-- Portfolio/Blog: [huyvnnb.github.io](huyvnnb.github.io)
+- Portfolio/Blog: [huyvnnb.github.io](https://huyvnnb.github.io/)
 
 ---
 
