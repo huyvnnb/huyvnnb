@@ -6,17 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I'm currently learning and building in **Backend** and **AI**
-- 💻 Focused on backend development with **Spring**, **Flask**, **Express**, and **MySQL**
-- 🧠 Exploring **Python** and **AI** algorithms from scratch
-- 🛠️ Love clean code, open source, and building real-world apps to grow
-- ☕ Fuelled by code and coffee
+- I'm currently learning and building in **Backend** and **AI**
+- Focused on backend development with **Spring**, **Flask**, **Express**, and **MySQL**
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,mongodb,mysql,git,linux" />
@@ -24,7 +21,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huyvnnb&show_icons=true&theme=tokyonight" />
@@ -34,7 +31,7 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 - Email: [huyqktk@gmail.com](mailto:huyqktk@gmail.com)
 - LinkedIn: [linkedin.com/in/huynguyenkma](https://linkedin.com/in/huynguyenkma)  
