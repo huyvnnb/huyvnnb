@@ -18,7 +18,7 @@
 ### About Me
 
 - I'm currently learning and building in **Backend** and **AI**
-- Focused on backend development with **Spring**, **Flask**, **Express**, and **MySQL**
+- Focused on backend development with **FastAPI**, **Flask**
 
 ---
 
